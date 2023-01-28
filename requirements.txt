@@ -1,0 +1,7 @@
+flask
+TA-Lib
+pandas
+yfinance
+requests
+plotly
+yfinance
